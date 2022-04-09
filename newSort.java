@@ -35,4 +35,5 @@ public class NewSort
            System.out.print(arr[i]+ "  ");  
        }  
    }  
+  
 }  
